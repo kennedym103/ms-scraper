@@ -1,0 +1,23 @@
+{
+    "wave buoys": [],
+    "magicseaweed surf charts": [],
+    "third party surf charts": [],
+    "france": [
+        {
+            "href": "/Algajola-Surf-Report/3503/",
+            "location": "Algajola"
+        },
+        {
+            "href": "/Anse-de-Pen-hat-Surf-Report/1521/",
+            "location": "Anse de Pen-hat"
+        },
+        {
+            "href": "/Baie-des-Trepasses-Lescoff-Surf-Report/73/",
+            "location": "Baie des TrÃ©passÃ©s (Lescoff)"
+        },
+        {
+            "href": "/Bandol-Surf-Report/3523/",
+            "location": "Bandol"
+        }
+    ]
+}
